@@ -1,0 +1,1351 @@
+Event ID: 0, Int: 0
+Parameters: {} ()
+    Register Bonfire (Event Flag ID: 11200984, Entity ID: 1201961, Reaction Distance: 2.000, Reaction Angle: 180.000, Initial Kindle Level: 0)
+    Register Ladder (Entity ID: 1201140, Unknown Event Flag ID: 11200010, Unknown Event Flag ID: 11200011)
+    Register Ladder (Entity ID: 1201141, Unknown Event Flag ID: 11200012, Unknown Event Flag ID: 11200013)
+    Create Generator (Entity ID: 1200090)
+    SKIP 2 lines IF Flag: 11200000 is ON
+    SKIP 1 lines IF Flag: 11200002 is ON
+    SKIP 1 lines
+    DISABLE Object with Entity ID: 1201200
+    SKIP 10 lines IF muliplayer status is Client
+    DISABLE Object with Entity ID: 1201994
+    Delete Map SFX (Entity ID: 1201995, Deletes only root: FALSE)
+    DISABLE Object with Entity ID: 1201996
+    Delete Map SFX (Entity ID: 1201997, Deletes only root: FALSE)
+    DISABLE Object with Entity ID: 1201998
+    Delete Map SFX (Entity ID: 1201999, Deletes only root: FALSE)
+    DISABLE Object with Entity ID: 1201988
+    Delete Map SFX (Entity ID: 1201989, Deletes only root: FALSE)
+    DISABLE Object with Entity ID: 1201986
+    Delete Map SFX (Entity ID: 1201987, Deletes only root: FALSE)
+    Initialize Event (Event ID: 11200090, Slot Number: 0, Arguments: {1201700, 1201701, 1202600, 1202601})
+    Initialize Event (Event ID: 11205080, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205081, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205082, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11200100, Slot Number: 0, Arguments: {11200110, 1201000, 120020, 1202500, 0, 61200500})
+    Initialize Event (Event ID: 11200110, Slot Number: 0, Arguments: {11200100, 1201000, 1202500, 0})
+    Initialize Event (Event ID: 11200100, Slot Number: 1, Arguments: {11200111, 1201010, 120021, 1202501, 1, 61200501})
+    Initialize Event (Event ID: 11200110, Slot Number: 1, Arguments: {11200101, 1201010, 1202501, 1})
+    Initialize Event (Event ID: 11200120, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205000, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11200800, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11200200, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11200690, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11200600, Slot Number: 0, Arguments: {1201650, 11200600})
+    Initialize Event (Event ID: 11200600, Slot Number: 1, Arguments: {1201651, 11200601})
+    DISABLE Map Sound (Entity ID: 1203800)
+    SKIP 4 lines IF Flag: 00000005 is OFF
+    Initialize Event (Event ID: 11205392, Slot Number: 0, Arguments: {0})
+    DISABLE Object with Entity ID: 1201990
+    Delete Map SFX (Entity ID: 1201991, Deletes only root: FALSE)
+    SKIP 9 lines
+    Initialize Event (Event ID: 11200000, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205390, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205391, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205393, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205392, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11200001, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205394, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205395, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205396, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11200002, Slot Number: 0, Arguments: {0})
+    DISABLE Map Sound (Entity ID: 1203801)
+    SKIP 6 lines IF Flag: 11200900 is OFF
+    Initialize Event (Event ID: 11205382, Slot Number: 0, Arguments: {0})
+    DISABLE Object with Entity ID: 1201890
+    Delete Map SFX (Entity ID: 1201891, Deletes only root: FALSE)
+    DISABLE Object with Entity ID: 1201892
+    Delete Map SFX (Entity ID: 1201893, Deletes only root: FALSE)
+    SKIP 17 lines
+    Initialize Event (Event ID: 11205380, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205381, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205383, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205382, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11200900, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205384, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205385, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205120, Slot Number: 0, Arguments: {1202220, 1202180})
+    Initialize Event (Event ID: 11205120, Slot Number: 1, Arguments: {1202221, 1202181})
+    Initialize Event (Event ID: 11205120, Slot Number: 2, Arguments: {1202222, 1202182})
+    Initialize Event (Event ID: 11205120, Slot Number: 3, Arguments: {1202223, 1202183})
+    Initialize Event (Event ID: 11205120, Slot Number: 4, Arguments: {1202224, 1202184})
+    Initialize Event (Event ID: 11205120, Slot Number: 5, Arguments: {1202225, 1202185})
+    Initialize Event (Event ID: 11205120, Slot Number: 6, Arguments: {1202226, 1202186})
+    Initialize Event (Event ID: 11205120, Slot Number: 7, Arguments: {1202227, 1202187})
+    Initialize Event (Event ID: 11205120, Slot Number: 8, Arguments: {1202228, 1202188})
+    Initialize Event (Event ID: 11205120, Slot Number: 9, Arguments: {1202229, 1202189})
+    Initialize Event (Event ID: 11200801, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205300, Slot Number: 0, Arguments: {231342081, 3530, 1200011, 91, 256, 5430})
+    Initialize Event (Event ID: 11205300, Slot Number: 1, Arguments: {231407618, 3531, 1200012, 92, 513, 5431})
+    Initialize Event (Event ID: 11205300, Slot Number: 2, Arguments: {231473155, 3532, 1200013, 93, 770, 5432})
+    Initialize Event (Event ID: 11205300, Slot Number: 3, Arguments: {231538692, 3533, 1200014, 94, 1027, 5433})
+    Initialize Event (Event ID: 11205300, Slot Number: 4, Arguments: {231604229, 3534, 1200015, 95, 1284, 5434})
+    Initialize Event (Event ID: 11205300, Slot Number: 5, Arguments: {231669766, 3535, 1200016, 96, 1541, 5435})
+    Initialize Event (Event ID: 11205300, Slot Number: 6, Arguments: {231735304, 3536, 1200017, 97, 1798, 5436})
+    Initialize Event (Event ID: 11205250, Slot Number: 0, Arguments: {1200100, 1202110})
+    Initialize Event (Event ID: 11205290, Slot Number: 0, Arguments: {1200101, 51200170, 0, 1})
+    Initialize Event (Event ID: 11205290, Slot Number: 1, Arguments: {1200102, 51200170, 1045220557, 1})
+    Initialize Event (Event ID: 11205290, Slot Number: 2, Arguments: {1200103, 51200170, 1061997773, 1})
+    Initialize Event (Event ID: 11205250, Slot Number: 1, Arguments: {1200104, 1202111})
+    Initialize Event (Event ID: 11205290, Slot Number: 3, Arguments: {1200105, 11205263, 0, 0})
+    Initialize Event (Event ID: 11205290, Slot Number: 4, Arguments: {1200106, 11205263, 1058642330, 0})
+    Initialize Event (Event ID: 11205290, Slot Number: 5, Arguments: {1200107, 11205264, 0, 0})
+    Initialize Event (Event ID: 11205290, Slot Number: 6, Arguments: {1200108, 11205264, 1063675494, 0})
+    Initialize Event (Event ID: 11205200, Slot Number: 0, Arguments: {1200109, 1090519040})
+    Initialize Event (Event ID: 11205200, Slot Number: 1, Arguments: {1200110, 1090519040})
+    Initialize Event (Event ID: 11205200, Slot Number: 2, Arguments: {1200111, 1084227584})
+    Initialize Event (Event ID: 11205200, Slot Number: 3, Arguments: {1200112, 1084227584})
+    Initialize Event (Event ID: 11205200, Slot Number: 4, Arguments: {1200113, 1084227584})
+    Initialize Event (Event ID: 11205230, Slot Number: 0, Arguments: {1200600, 1077936128})
+    Initialize Event (Event ID: 11205230, Slot Number: 2, Arguments: {1200602, 1077936128})
+    Initialize Event (Event ID: 11205240, Slot Number: 0, Arguments: {1200600, 1202710})
+    Initialize Event (Event ID: 11205240, Slot Number: 2, Arguments: {1200602, 1202712})
+    Initialize Event (Event ID: 11205280, Slot Number: 0, Arguments: {1200650, 1086324736, 1202112})
+    Initialize Event (Event ID: 11205280, Slot Number: 1, Arguments: {1200651, 1073741824, 1202112})
+    Initialize Event (Event ID: 11205260, Slot Number: 0, Arguments: {1200652, 1086324736})
+    Initialize Event (Event ID: 11205260, Slot Number: 1, Arguments: {1200653, 1092616192})
+    Initialize Event (Event ID: 11205260, Slot Number: 2, Arguments: {1200654, 1090519040})
+    Initialize Event (Event ID: 11205260, Slot Number: 3, Arguments: {1200655, 1082130432})
+    Initialize Event (Event ID: 11205260, Slot Number: 4, Arguments: {1200656, 1082130432})
+    Initialize Event (Event ID: 11205190, Slot Number: 0, Arguments: {1200250, 1202113, 0})
+    Initialize Event (Event ID: 11205190, Slot Number: 1, Arguments: {1200251, 1202113, 1056964608})
+    Initialize Event (Event ID: 11205190, Slot Number: 2, Arguments: {1200252, 1202113, 1067030938})
+    Initialize Event (Event ID: 11205190, Slot Number: 3, Arguments: {1200253, 1202113, 1060320051})
+    Initialize Event (Event ID: 11205150, Slot Number: 0, Arguments: {1200705})
+    Initialize Event (Event ID: 11205150, Slot Number: 1, Arguments: {1200706})
+    Initialize Event (Event ID: 11205150, Slot Number: 2, Arguments: {1200707})
+    Initialize Event (Event ID: 11205150, Slot Number: 3, Arguments: {1200708})
+    Initialize Event (Event ID: 11205150, Slot Number: 4, Arguments: {1200709})
+    Initialize Event (Event ID: 11205150, Slot Number: 5, Arguments: {1200710})
+    Initialize Event (Event ID: 11205150, Slot Number: 6, Arguments: {1200711})
+    Initialize Event (Event ID: 11205150, Slot Number: 7, Arguments: {1200712})
+    Initialize Event (Event ID: 11205180, Slot Number: 0, Arguments: {1200350, 1})
+    Initialize Event (Event ID: 11205180, Slot Number: 1, Arguments: {1200351, 0})
+    Initialize Event (Event ID: 11205180, Slot Number: 2, Arguments: {1200352, 0})
+    Initialize Event (Event ID: 11200810, Slot Number: 0, Arguments: {1200000, 0, 0})
+    Initialize Event (Event ID: 11200810, Slot Number: 1, Arguments: {1200001, 0, 0})
+    Initialize Event (Event ID: 11200810, Slot Number: 2, Arguments: {1200400, 0, 33004000})
+    Initialize Event (Event ID: 11200810, Slot Number: 3, Arguments: {1200350, 0, 0})
+    Initialize Event (Event ID: 11200810, Slot Number: 4, Arguments: {1200351, 0, 0})
+    Initialize Event (Event ID: 11200810, Slot Number: 5, Arguments: {1200352, 0, 0})
+    Initialize Event (Event ID: 11200810, Slot Number: 6, Arguments: {1200750, 0, 27901000})
+    Initialize Event (Event ID: 11200810, Slot Number: 7, Arguments: {1200301, 0, 0})
+    Initialize Event (Event ID: 11200810, Slot Number: 8, Arguments: {1200304, 1, 0})
+    Initialize Event (Event ID: 11200810, Slot Number: 9, Arguments: {1200306, 0, 0})
+
+Event ID: 50, Int: 0
+Parameters: {} ()
+    Humanity Registration for Entity ID: 6521 ("First Event Flag ID to retain humanity ID": 8932)
+    Initialize Event (Event ID: 11205030, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205032, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11200300, Slot Number: 0, Arguments: {0})
+    SKIP 2 lines IF muliplayer status is Client
+    Batch SET Event Flag IDs from 11200210 to 11200213 to OFF
+    SET Event Flag ID 11200215 to OFF
+    Humanity Registration for Entity ID: 6050 ("First Event Flag ID to retain humanity ID": 8350)
+    Humanity Registration for Entity ID: 6051 ("First Event Flag ID to retain humanity ID": 8350)
+    SKIP 6 lines IF muliplayer status is Client
+    SKIP 2 lines IF Flag: 00001123 is OFF
+    Batch SET Event Flag IDs from 1120 to 1139 to OFF
+    SET Event Flag ID 1122 to ON
+    SKIP 2 lines IF Flag: 00001130 is OFF
+    Batch SET Event Flag IDs from 1120 to 1139 to OFF
+    SET Event Flag ID 1129 to ON
+    SKIP 1 lines IF Flag: 00001121 is ON
+    DISABLE Entity ID: 6050
+    SKIP 1 lines IF Flag: 00001123 is ON
+    DISABLE Entity ID: 6051
+    SKIP 1 lines IF Flag: 00001130 is ON
+    DISABLE Entity ID: 6051
+    Special Standby Setting (Entity ID: 6051, Standby Animation: 7875, Damage Animation: -1, Cancel Animation: -1, Death Animation: -1, Standby Return Animation: -1)
+    Initialize Event (Event ID: 11200520, Slot Number: 0, Arguments: {6050, 1120, 1139, 1125})
+    Initialize Event (Event ID: 11200520, Slot Number: 1, Arguments: {6051, 1120, 1139, 1125})
+    Initialize Event (Event ID: 11200530, Slot Number: 0, Arguments: {6050, 1120, 1139, 1121})
+    Initialize Event (Event ID: 11200531, Slot Number: 0, Arguments: {6050, 1120, 1139, 1122})
+    Initialize Event (Event ID: 11200534, Slot Number: 0, Arguments: {6050, 1120, 1139, 1123})
+    Initialize Event (Event ID: 11200532, Slot Number: 0, Arguments: {6050, 1120, 1139, 1126})
+    Initialize Event (Event ID: 11200533, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205040, Slot Number: 0, Arguments: {11200210, 1202000, 1203100})
+    Initialize Event (Event ID: 11205040, Slot Number: 1, Arguments: {11200211, 1202001, 1203101})
+    Initialize Event (Event ID: 11205040, Slot Number: 2, Arguments: {11200212, 1202002, 1203102})
+    Initialize Event (Event ID: 11205040, Slot Number: 3, Arguments: {11200213, 1202003, 1203103})
+    Initialize Event (Event ID: 11200529, Slot Number: 0, Arguments: {1120, 1139, 1127})
+    Initialize Event (Event ID: 11200527, Slot Number: 0, Arguments: {6050, 1120, 1139, 1129})
+    Initialize Event (Event ID: 11200525, Slot Number: 0, Arguments: {6050, 1120, 1139, 1130})
+    Initialize Event (Event ID: 11205070, Slot Number: 0, Arguments: {11200210, 1202000, 1203100})
+    Initialize Event (Event ID: 11205070, Slot Number: 1, Arguments: {11200211, 1202001, 1203101})
+    Initialize Event (Event ID: 11205070, Slot Number: 2, Arguments: {11200212, 1202002, 1203102})
+    Initialize Event (Event ID: 11205070, Slot Number: 3, Arguments: {11200213, 1202003, 1203103})
+    Delete Map SFX (Entity ID: 1202009, Deletes only root: FALSE)
+    Initialize Event (Event ID: 11200005, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11200006, Slot Number: 0, Arguments: {0})
+    SKIP 1 lines IF muliplayer status is Client
+    Batch SET Event Flag IDs from 11205050 to 11205068 to OFF
+    Set Map Collision for Entity ID: 6380 to Not TRUE
+    DISABLE Gravity for Entity ID: 6380
+    ENABLE Immortality for Entity ID: 6380
+    SKIP 2 lines IF Flag: 00001710 is ON
+    SKIP 1 lines IF Flag: 00001712 is ON
+    DISABLE Entity ID: 6380
+    Initialize Event (Event ID: 11200538, Slot Number: 0, Arguments: {6380, 1710, 1712, 1711})
+    Initialize Event (Event ID: 11200539, Slot Number: 0, Arguments: {6380, 1710, 1712, 1712})
+    Initialize Event (Event ID: 11200540, Slot Number: 0, Arguments: {6380, 1710, 1712, 1711})
+    Initialize Event (Event ID: 11205058, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205054, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205056, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205057, Slot Number: 0, Arguments: {0})
+    Initialize Event (Event ID: 11205060, Slot Number: 0, Arguments: {6310})
+    Initialize Event (Event ID: 11205060, Slot Number: 1, Arguments: {6420})
+    Initialize Event (Event ID: 11205060, Slot Number: 2, Arguments: {1200300})
+    Initialize Event (Event ID: 11205060, Slot Number: 3, Arguments: {1200301})
+    Initialize Event (Event ID: 11205060, Slot Number: 4, Arguments: {1200302})
+    Initialize Event (Event ID: 11205060, Slot Number: 5, Arguments: {1200303})
+    Initialize Event (Event ID: 11205060, Slot Number: 6, Arguments: {1200304})
+    Initialize Event (Event ID: 11205060, Slot Number: 7, Arguments: {1200305})
+    Initialize Event (Event ID: 11205060, Slot Number: 8, Arguments: {1200306})
+    Humanity Registration for Entity ID: 6310 ("First Event Flag ID to retain humanity ID": 8470)
+    Humanity Registration for Entity ID: 6420 ("First Event Flag ID to retain humanity ID": 8900)
+    DISABLE Entity ID: 6310
+    DISABLE Entity ID: 6420
+    Initialize Event (Event ID: 11200520, Slot Number: 2, Arguments: {6310, 1600, 1619, 1604})
+    Initialize Event (Event ID: 11200520, Slot Number: 3, Arguments: {6420, 1760, 1769, 1764})
+    Initialize Event (Event ID: 11200501, Slot Number: 0, Arguments: {6310, 1603})
+    Initialize Event (Event ID: 11200535, Slot Number: 0, Arguments: {6310})
+
+Event ID: 11200090, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iiii)
+    SKIP 3 lines IF This Event + Slot: 00000000 is OFF
+    DISABLE Object with Entity ID: X0:3
+    Delete Map SFX (Entity ID: X4:7, Deletes only root: FALSE)
+    END event
+     AND(01) <-- IF Action Button State (Target Type: Area, Target Entity ID: X8:11, Reaction Angle: 0.000, Damipoly ID: 0, Reaction Distance: 0.000, Help ID: 10010403, Reaction Attribute: Survival & Gray, Pad ID: 0) and Line Segment Direction (Line Segment Endpoint Entity ID: X0:3)
+     AND(02) <-- IF Action Button State (Target Type: Area, Target Entity ID: X12:15, Reaction Angle: 0.000, Damipoly ID: 0, Reaction Distance: 0.000, Help ID: 10010407, Reaction Attribute: Survival & Gray, Pad ID: 0) and Line Segment Direction (Line Segment Endpoint Entity ID: X0:3)
+     OR(01) <-- IF register AND(01) is TRUE
+     OR(01) <-- IF register AND(02) is TRUE
+     MAIN <-- IF register OR(01) is TRUE
+    SKIP 2 lines IF register AND(02) is TRUE (FINISHED)
+    Issue short-range Warp request for Entity ID: 10000 (Warp Destination Type: Area, Destination Target ID: X8:11, Damipoly ID: -1)
+    SKIP 1 lines
+    Issue short-range Warp request for Entity ID: 10000 (Warp Destination Type: Area, Destination Target ID: X12:15, Damipoly ID: -1)
+    Force Entity ID: 10000 to play Animation ID: 7410 (Loop: FALSE, Wait for completion: FALSE, Do not wait for transition: FALSE)
+    DISABLE Object with Entity ID: X0:3
+    Delete Map SFX (Entity ID: X4:7, Deletes only root: TRUE)
+
+Event ID: 11205080, Int: 1
+Parameters: {} ()
+    END event IF This Event: 00000000 is ON
+    DISABLE Entity ID: 1200900
+    DISABLE Entity ID: 1200901
+    DISABLE Entity ID: 1200902
+    DISABLE Entity ID: 1200903
+    DISABLE Entity ID: 1200904
+    DISABLE Entity ID: 1200905
+    DISABLE Entity ID: 1200906
+    DISABLE Entity ID: 1200907
+    DISABLE Entity ID: 1200908
+    DISABLE Entity ID: 1200909
+     MAIN <-- IF Flag: 11200050 is ON
+    END event IF Flag: 00000735 is ON
+    SET Event Flag ID 5000 to ON
+    ENABLE Entity ID: 1200900
+    ENABLE Entity ID: 1200901
+    ENABLE Entity ID: 1200902
+    ENABLE Entity ID: 1200903
+    ENABLE Entity ID: 1200904
+    ENABLE Entity ID: 1200905
+    ENABLE Entity ID: 1200906
+    ENABLE Entity ID: 1200907
+    ENABLE Entity ID: 1200908
+    ENABLE Entity ID: 1200909
+
+Event ID: 11205081, Int: 1
+Parameters: {} ()
+     OR(01) <-- IF Flag: 11205085 is ON
+     OR(01) <-- IF Flag: 00000735 is ON
+     MAIN <-- IF register OR(01) is TRUE
+    SKIP 1 lines IF Flag: 00000735 is OFF
+    SET Event Flag ID 735 to OFF
+    SET Event Flag ID 11200050 to OFF
+    SET Event Flag ID 11205085 to OFF
+    SET Event Flag ID 5001 to ON
+    Request forced death of Entity ID: 1200900 (Yields souls: FALSE)
+    Request forced death of Entity ID: 1200901 (Yields souls: FALSE)
+    Request forced death of Entity ID: 1200902 (Yields souls: FALSE)
+    Request forced death of Entity ID: 1200903 (Yields souls: FALSE)
+    Request forced death of Entity ID: 1200904 (Yields souls: FALSE)
+    Request forced death of Entity ID: 1200905 (Yields souls: FALSE)
+    Request forced death of Entity ID: 1200906 (Yields souls: FALSE)
+    Request forced death of Entity ID: 1200907 (Yields souls: FALSE)
+    Request forced death of Entity ID: 1200908 (Yields souls: FALSE)
+    Request forced death of Entity ID: 1200909 (Yields souls: FALSE)
+
+Event ID: 11205082, Int: 1
+Parameters: {} ()
+    END event IF multiplayer status is Client
+     AND(01) <-- IF Area Black Tendency > 50
+     AND(01) <-- IF it is TRUE that player is in Map<12><0>
+     OR(01) <-- IF register AND(01) is TRUE
+     OR(01) <-- IF Flag: 11200050 is ON
+     MAIN <-- IF register OR(01) is TRUE
+    WAIT 1 frames
+     AND(02) <-- IF Area Black Tendency > 50
+     AND(02) <-- IF it is TRUE that player is in Map<12><0>
+     OR(02) <-- IF register AND(02) is TRUE
+     OR(02) <-- IF Flag: 11200050 is ON
+    RESTART event IF register OR(02) is FALSE
+    WAIT 1 frames
+     AND(03) <-- IF Area Black Tendency > 50
+     AND(03) <-- IF it is TRUE that player is in Map<12><0>
+     OR(03) <-- IF register AND(03) is TRUE
+     OR(03) <-- IF Flag: 11200050 is ON
+    RESTART event IF register OR(03) is FALSE
+    WAIT 1 frames
+     AND(04) <-- IF Area Black Tendency > 50
+     AND(04) <-- IF it is TRUE that player is in Map<12><0>
+     OR(04) <-- IF register AND(04) is TRUE
+     OR(04) <-- IF Flag: 11200050 is ON
+    RESTART event IF register OR(04) is FALSE
+    WAIT 1 frames
+     AND(05) <-- IF Area Black Tendency > 50
+     AND(05) <-- IF it is TRUE that player is in Map<12><0>
+     OR(05) <-- IF register AND(05) is TRUE
+     OR(05) <-- IF Flag: 11200050 is ON
+    RESTART event IF register OR(05) is FALSE
+    WAIT 1 frames
+     AND(06) <-- IF Area Black Tendency > 50
+     AND(06) <-- IF it is TRUE that player is in Map<12><0>
+     OR(06) <-- IF register AND(06) is TRUE
+     OR(06) <-- IF Flag: 11200050 is ON
+    RESTART event IF register OR(06) is FALSE
+    SET Event Flag ID 11200050 to ON
+    WAIT 600.000s
+     AND(07) <-- IF Area Black Tendency <= 50
+     AND(07) <-- IF it is TRUE that player is in Map<12><0>
+    RESTART event IF register AND(07) is FALSE
+    SET Event Flag ID 11200050 to OFF
+    SET Event Flag ID 11205085 to ON
+
+Event ID: 11200000, Int: 1
+Parameters: {} ()
+    END event IF This Event: 00000000 is ON
+    END event IF Flag: 11200002 is ON
+    DISABLE Entity ID: 1200800
+    DISABLE Object with Entity ID: 1201990
+    Delete Map SFX (Entity ID: 1201991, Deletes only root: FALSE)
+     OR(01) <-- IF Entity ID: 00010000 is of Character Type Survival
+     OR(01) <-- IF Entity ID: 00010000 is of Character Type Gray Ghost
+     AND(01) <-- IF register OR(01) is TRUE
+     AND(01) <-- IF Flag: 11210021 is OFF
+     AND(01) <-- IF Entity ID: 00010000 is Inside Area Entity ID: 01202999 --> AND(01)
+     MAIN <-- IF register AND(01) is TRUE
+    SKIP 1 lines IF muliplayer status is Client
+    Issue Boss Room entry notification
+    Activate buffs for NPC ID: 1200800
+    SET Event Flag ID 11205390 to ON
+    SET Event Flag ID 11205391 to ON
+    SET Event Flag ID 11205393 to ON
+     AND(02) <-- IF Entity ID: 00010000 is of Character Type Black Ghost
+    SKIP 1 lines IF register AND(02) is FALSE
+     MAIN <-- IF Flag: 00000703 is ON
+    SKIP 2 lines IF muliplayer status is Multiplayer
+    Play Cutscene (Cutscene ID: 120000, Playback Method: Skippable) and Warp Player Entity ID: 00010000 to (Warp Point ID: 1202801, Map<12><0>)
+    SKIP 4 lines
+    SKIP 2 lines IF muliplayer status is Client
+    Play Cutscene (Cutscene ID: 120000, Playback Method: Unskippable) and Warp Player Entity ID: 00010000 to (Warp Point ID: 1202801, Map<12><0>)
+    SKIP 1 lines
+    Play Cutscene (Cutscene ID: 120000, Playback Method: Unskippable) to Player Entity ID: 00010000
+    WAIT 1 frames
+    DISABLE Object with Entity ID: 1201200
+    Issue short-range Warp request for Entity ID: 1200800 (Warp Destination Type: Area, Destination Target ID: 1202800, Damipoly ID: -1)
+    ENABLE Entity ID: 1200800
+    ENABLE Object with Entity ID: 1201990
+    Create Map SFX (Entity ID: 1201991)
+    SET Event Flag ID 11200002 to ON
+
+Event ID: 11200002, Int: 0
+Parameters: {} ()
+    END event IF This Event: 00000000 is ON
+    END event IF Flag: 11200000 is ON
+     OR(01) <-- IF Entity ID: 00010000 is of Character Type Survival
+     OR(01) <-- IF Entity ID: 00010000 is of Character Type Gray Ghost
+     AND(01) <-- IF register OR(01) is TRUE
+     AND(01) <-- IF Flag: 11210021 is ON
+     AND(01) <-- IF Entity ID: 00010000 is Inside Area Entity ID: 01202999 --> AND(01)
+     MAIN <-- IF register AND(01) is TRUE
+    SKIP 1 lines IF muliplayer status is Client
+    Issue Boss Room entry notification
+    Activate buffs for NPC ID: 1200800
+    SET Event Flag ID 11205390 to ON
+    SET Event Flag ID 11205391 to ON
+    SET Event Flag ID 11205393 to ON
+     AND(02) <-- IF Entity ID: 00010000 is of Character Type Black Ghost
+    SKIP 1 lines IF register AND(02) is FALSE
+     MAIN <-- IF Flag: 00000703 is ON
+    SKIP 2 lines IF muliplayer status is Multiplayer
+    Play Cutscene (Cutscene ID: 120003, Playback Method: Skippable) and Warp Player Entity ID: 00010000 to (Warp Point ID: 1202802, Map<12><0>)
+    SKIP 4 lines
+    SKIP 2 lines IF muliplayer status is Client
+    Play Cutscene (Cutscene ID: 120003, Playback Method: Unskippable) and Warp Player Entity ID: 00010000 to (Warp Point ID: 1202802, Map<12><0>)
+    SKIP 1 lines
+    Play Cutscene (Cutscene ID: 120003, Playback Method: Unskippable) to Player Entity ID: 00010000
+    WAIT 1 frames
+    DISABLE Object with Entity ID: 1201200
+    ENABLE Entity ID: 1200800
+    ENABLE Object with Entity ID: 1201990
+    Create Map SFX (Entity ID: 1201991)
+    SET Event Flag ID 11200000 to ON
+
+Event ID: 11205390, Int: 0
+Parameters: {} ()
+     AND(01) <-- IF Flag: 00000005 is OFF
+     AND(01) <-- IF Flag: 11200000 is ON
+     AND(01) <-- IF Action Button State (Target Type: Area, Target Entity ID: 01202998, Reaction Angle: 0.000, Damipoly ID: -1, Reaction Distance: 0.000, Help ID: 10010403, Reaction Attribute: Survival & Gray, Pad ID: 0) and Line Segment Direction (Line Segment Endpoint Entity ID: 01201990) (BOSS ROOM VERSION)
+     MAIN <-- IF register AND(01) is TRUE
+    Rotate Entity ID: 10000 to face Entity ID: 1202997
+    Force Entity ID: 10000 to play Animation ID: 7410 (Loop: FALSE, Wait for completion: FALSE, Do not wait for transition: FALSE)
+    RESTART event
+
+Event ID: 11205391, Int: 0
+Parameters: {} ()
+     AND(01) <-- IF Flag: 00000005 is OFF
+     AND(01) <-- IF Flag: 11205393 is ON
+     AND(01) <-- IF Entity ID: 00010000 is of Character Type White Ghost
+     AND(01) <-- IF Action Button State (Target Type: Area, Target Entity ID: 01202998, Reaction Angle: 0.000, Damipoly ID: -1, Reaction Distance: 0.000, Help ID: 10010403, Reaction Attribute: All, Pad ID: 0) and Line Segment Direction (Line Segment Endpoint Entity ID: 01201990)
+     MAIN <-- IF register AND(01) is TRUE
+    Rotate Entity ID: 10000 to face Entity ID: 1202997
+    Force Entity ID: 10000 to play Animation ID: 7410 (Loop: FALSE, Wait for completion: FALSE, Do not wait for transition: FALSE)
+    RESTART event
+
+Event ID: 11205393, Int: 0
+Parameters: {} ()
+    SKIP 8 lines IF This Event: 00000000 is ON
+     AND(01) <-- IF Flag: 11200000 is ON
+     AND(01) <-- IF Flag: 00000005 is OFF
+     AND(01) <-- IF Entity ID: 00010000 is Inside Area Entity ID: 01202996 --> AND(01)
+     AND(02) <-- IF This Event: 00000000 is ON
+     OR(01) <-- IF register AND(01) is TRUE
+     OR(01) <-- IF register AND(02) is TRUE
+     MAIN <-- IF register OR(01) is TRUE
+    END event IF register AND(02) is TRUE (FINISHED)
+    SKIP 1 lines IF muliplayer status is Client
+    Issue Boss Room entry notification
+    Activate buffs for NPC ID: 1200800
+
+Event ID: 11205392, Int: 1
+Parameters: {} ()
+    SKIP 3 lines IF Flag: 00000005 is OFF
+    DISABLE Entity ID: 1200800
+    Request forced death of Entity ID: 1200800 (Yields souls: FALSE)
+    END event
+    DISABLE AI of Entity ID: 1200800
+     AND(01) <-- IF Flag: 11200000 is ON
+     AND(01) <-- IF Flag: 11205393 is ON
+     MAIN <-- IF register AND(01) is TRUE
+    ENABLE AI of Entity ID: 1200800
+    ENABLE Boss Health Bar of Entity ID: 1200800 (Slot Number: 0, Name ID: 5210)
+
+Event ID: 11200001, Int: 0
+Parameters: {} ()
+     MAIN <-- IF Entity ID: 01200800 is Dead
+    SET Event Flag ID 5 to ON
+    Kill Boss (Entity ID: 1200800)
+    DISABLE Object with Entity ID: 1201990
+    Delete Map SFX (Entity ID: 1201991, Deletes only root: TRUE)
+
+Event ID: 11205394, Int: 0
+Parameters: {} ()
+    DISABLE network sync.
+     AND(01) <-- IF Flag: 00000005 is OFF
+     AND(01) <-- IF Flag: 11205392 is ON
+    SKIP 1 lines IF muliplayer status is Host
+     AND(01) <-- IF Flag: 11205391 is ON
+     AND(01) <-- IF Entity ID: 00010000 is Inside Area Entity ID: 01202990 --> AND(01)
+     MAIN <-- IF register AND(01) is TRUE
+    ENABLE Map Sound (Entity ID: 1203800)
+
+Event ID: 11205395, Int: 0
+Parameters: {} ()
+    DISABLE network sync.
+     AND(01) <-- IF Flag: 00000005 is ON
+     AND(01) <-- IF Flag: 11205394 is ON
+     MAIN <-- IF register AND(01) is TRUE
+    DISABLE Map Sound (Entity ID: 1203800)
+
+Event ID: 11205396, Int: 1
+Parameters: {} ()
+    SKIP 1 lines IF This Event: 00000000 is ON
+     MAIN <-- IF Entity ID: 01200800 has Health Ratio <= 0.100
+    Set Special Effect (Entity ID: 1200800, Special Effect ID: 5401)
+
+Event ID: 11205380, Int: 0
+Parameters: {} ()
+     AND(01) <-- IF Flag: 11200900 is OFF
+     AND(01) <-- IF Action Button State (Target Type: Area, Target Entity ID: 01202898, Reaction Angle: 0.000, Damipoly ID: -1, Reaction Distance: 0.000, Help ID: 10010403, Reaction Attribute: Survival & Gray, Pad ID: 0) and Line Segment Direction (Line Segment Endpoint Entity ID: 01201890) (BOSS ROOM VERSION)
+     MAIN <-- IF register AND(01) is TRUE
+    Rotate Entity ID: 10000 to face Entity ID: 1202894
+    Force Entity ID: 10000 to play Animation ID: 7410 (Loop: FALSE, Wait for completion: FALSE, Do not wait for transition: FALSE)
+    RESTART event
+
+Event ID: 11205381, Int: 0
+Parameters: {} ()
+     AND(01) <-- IF Flag: 11200900 is OFF
+     AND(01) <-- IF Flag: 11205383 is ON
+     AND(01) <-- IF Entity ID: 00010000 is of Character Type White Ghost
+     AND(01) <-- IF Action Button State (Target Type: Area, Target Entity ID: 01202898, Reaction Angle: 0.000, Damipoly ID: -1, Reaction Distance: 0.000, Help ID: 10010403, Reaction Attribute: All, Pad ID: 0) and Line Segment Direction (Line Segment Endpoint Entity ID: 01201890)
+     MAIN <-- IF register AND(01) is TRUE
+    Rotate Entity ID: 10000 to face Entity ID: 1202894
+    Force Entity ID: 10000 to play Animation ID: 7410 (Loop: FALSE, Wait for completion: FALSE, Do not wait for transition: FALSE)
+    RESTART event
+
+Event ID: 11205383, Int: 0
+Parameters: {} ()
+    SKIP 3 lines IF This Event: 00000000 is ON
+     AND(01) <-- IF Flag: 11200900 is OFF
+     AND(01) <-- IF Entity ID: 00010000 is Inside Area Entity ID: 01202896 --> AND(01)
+     MAIN <-- IF register AND(01) is TRUE
+    SKIP 2 lines IF muliplayer status is Client
+    Issue Boss Room entry notification
+    Set Special Effect (Entity ID: 10000, Special Effect ID: 5500)
+    Activate buffs for NPC ID: 1200801
+
+Event ID: 11205382, Int: 1
+Parameters: {} ()
+    DISABLE Entity ID: 1200090
+    SKIP 1 lines IF muliplayer status is Client
+    Set Network Update Authority of Entity ID: 1200801 to Forced
+    SKIP 3 lines IF Flag: 11200900 is OFF
+    DISABLE Entity ID: 1200801
+    Request forced death of Entity ID: 1200801 (Yields souls: FALSE)
+    END event
+    DISABLE Health Bar for Entity ID: 1200801
+    DISABLE AI of Entity ID: 1200801
+    Special Standby Setting (Entity ID: 1200801, Standby Animation: 7000, Damage Animation: -1, Cancel Animation: -1, Death Animation: -1, Standby Return Animation: -1)
+     MAIN <-- IF Flag: 11205383 is ON
+    Special Standby Setting (Entity ID: 1200801, Standby Animation: -1, Damage Animation: -1, Cancel Animation: 7001, Death Animation: -1, Standby Return Animation: -1)
+    ENABLE AI of Entity ID: 1200801
+    ENABLE Boss Health Bar of Entity ID: 1200801 (Slot Number: 0, Name ID: 3230)
+
+Event ID: 11200900, Int: 0
+Parameters: {} ()
+     MAIN <-- IF Entity ID: 01200801 is Dead
+    Cancel Special Effect (Entity ID: 10000, Special Effect ID: 5500)
+    SET Event Flag ID 11200900 to ON
+    Kill Boss (Entity ID: 1200801)
+    DISABLE Object with Entity ID: 1201890
+    Delete Map SFX (Entity ID: 1201891, Deletes only root: TRUE)
+    DISABLE Object with Entity ID: 1201892
+    Delete Map SFX (Entity ID: 1201893, Deletes only root: TRUE)
+
+Event ID: 11205384, Int: 0
+Parameters: {} ()
+    DISABLE network sync.
+     AND(01) <-- IF Flag: 11200900 is OFF
+     AND(01) <-- IF Flag: 11205382 is ON
+    SKIP 1 lines IF muliplayer status is Host
+     AND(01) <-- IF Flag: 11205381 is ON
+     AND(01) <-- IF Entity ID: 00010000 is Inside Area Entity ID: 01202890 --> AND(01)
+     MAIN <-- IF register AND(01) is TRUE
+    ENABLE Map Sound (Entity ID: 1203801)
+
+Event ID: 11205385, Int: 0
+Parameters: {} ()
+    DISABLE network sync.
+     AND(01) <-- IF Flag: 11200900 is ON
+     AND(01) <-- IF Flag: 11205384 is ON
+     MAIN <-- IF register AND(01) is TRUE
+    DISABLE Map Sound (Entity ID: 1203801)
+
+Event ID: 11205120, Int: 0
+Parameters: {X0:3, X4:7} (ii)
+     AND(01) <-- IF Entity ID: 01200801 is Inside Area Entity ID: X0:3 --> AND(01)
+     AND(01) <-- IF it is TRUE that Entity ID: 01200801 has Event Message ID: 00000010
+     MAIN <-- IF register AND(01) is TRUE
+    Issue short-range Warp request for Entity ID: 1200801 (Warp Destination Type: Area, Destination Target ID: X4:7, Damipoly ID: -1)
+     MAIN <-- IF it is FALSE that Entity ID: 01200801 has Event Message ID: 00000010
+    RESTART event
+
+Event ID: 11200100, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15, X16:19, X20:23} (iiiiii)
+    SKIP 1 lines IF Flag: X20:23 is ON
+    SKIP 2 lines IF This Event + Slot: 00000000 is OFF
+    "Reproduction of object animation" (Object Entity ID: X4:7, Animation ID: 1)
+    END event
+    Create SFX ID: X8:11 attached to Object (Entity ID: X4:7, Damipoly ID: 200)
+    SKIP 1 lines IF (Event Flag ID: X16:19) == (Event Flag ID: 1)
+     AND(01) <-- IF player Owns Item (Item Type: Good, Item ID: 00002002)
+     AND(01) <-- IF Action Button State (Target Type: Area, Target Entity ID: X12:15, Reaction Angle: 0.000, Damipoly ID: -1, Reaction Distance: 0.000, Help ID: 10010400, Reaction Attribute: Survival & Gray, Pad ID: 0) and Line Segment Direction (Line Segment Endpoint Entity ID: X4:7) (BOSS ROOM VERSION)
+     MAIN <-- IF register AND(01) is TRUE
+    SET Event Flag ID X0:3 to ON
+    SET Event Flag ID X20:23 to ON
+    Rotate Entity ID: 10000 to face Entity ID: X4:7
+    Force Entity ID: 10000 to play Animation ID: 7114 (Loop: FALSE, Wait for completion: TRUE, Do not wait for transition: FALSE)
+    SKIP 1 lines IF (Event Flag ID: X16:19) == (Event Flag ID: 1)
+    SKIP 1 lines IF muliplayer status is Client
+    SKIP 1 lines IF (Event Flag ID: X16:19) == (Event Flag ID: 1)
+    Display Generic Dialog (Message ID: 10010861, Button Type: YES/NO, Number of Buttons: No Button, Entity ID: X4:7, Display Distance: 3.000)
+    Force Entity ID: X4:7 to play Animation ID: 1 (Loop: FALSE, Wait for completion: FALSE, Do not wait for transition: FALSE)
+    Delete SFX attached to Object (Entity ID: X4:7) (Should delete root: TRUE)
+
+Event ID: 11200110, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iiii)
+    DISABLE network sync.
+     OR(01) <-- IF Flag: X0:3 is ON
+    SKIP 1 lines IF (Event Flag ID: X12:15) == (Event Flag ID: 0)
+     AND(01) <-- IF Flag: 00000703 is ON
+    SKIP 1 lines IF (Event Flag ID: X12:15) == (Event Flag ID: 1)
+     AND(01) <-- IF player Does not own Item (Item Type: Good, Item ID: 00002002)
+     AND(01) <-- IF Action Button State (Target Type: Area, Target Entity ID: X8:11, Reaction Angle: 0.000, Damipoly ID: -1, Reaction Distance: 0.000, Help ID: 10010400, Reaction Attribute: All, Pad ID: 0) and Line Segment Direction (Line Segment Endpoint Entity ID: X4:7)
+     AND(02) <-- IF player Multiplayer State is Client
+     AND(02) <-- IF Action Button State (Target Type: Area, Target Entity ID: X8:11, Reaction Angle: 0.000, Damipoly ID: -1, Reaction Distance: 0.000, Help ID: 10010400, Reaction Attribute: All, Pad ID: 0) and Line Segment Direction (Line Segment Endpoint Entity ID: X4:7)
+     OR(01) <-- IF register AND(01) is TRUE
+     OR(01) <-- IF register AND(02) is TRUE
+     MAIN <-- IF register OR(01) is TRUE
+    END event IF Flag: X0:3 is ON
+    Display Generic Dialog (Message ID: 10010160, Button Type: YES/NO, Number of Buttons: No Button, Entity ID: X4:7, Display Distance: 3.000)
+    RESTART event
+
+Event ID: 11200120, Int: 0
+Parameters: {} ()
+    SKIP 2 lines IF This Event: 00000000 is OFF
+    DISABLE Object with Entity ID: 1201300
+    END event
+     MAIN <-- IF Object Entity ID: 01201300 is Destroyed
+    SET Event Flag ID 11200120 to ON
+
+Event ID: 11205150, Int: 1
+Parameters: {X0:3} (i)
+     AND(01) <-- IF Entity ID: X0:3 has Health Ratio <= 0.800
+     AND(01) <-- IF Entity ID: X0:3 BackRead status is TRUE
+     MAIN <-- IF register AND(01) is TRUE
+    Issue AI instruction request to Entity ID: X0:3 (Command ID: 1, Slot Number: 0)
+    Issue AI Re-plan request to Entity ID: X0:3
+
+Event ID: 11205180, Int: 1
+Parameters: {X0:3, X4:7} (ii)
+    SKIP 3 lines IF (Event Flag ID: X4:7) == (Event Flag ID: 0)
+     MAIN <-- IF Entity ID: X0:3 has AI State: Battle
+    Set "Nest" of Entity ID: X0:3 to Area Entity ID: 1202732
+    END event
+    SKIP 6 lines IF This Event + Slot: 00000000 is ON
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: 9000, Damage Animation: -1, Cancel Animation: -1, Death Animation: -1, Standby Return Animation: -1)
+    DISABLE AI of Entity ID: X0:3
+     MAIN <-- IF Entity ID: 01200350 has Health Ratio <= 0.400
+    WAIT for a random number of seconds (Min: 0.000s, Max: 1.000s)
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: 9060, Death Animation: -1, Standby Return Animation: -1)
+    ENABLE AI of Entity ID: X0:3
+    Set "Nest" of Entity ID: X0:3 to Area Entity ID: 1202732
+
+Event ID: 11205190, Int: 1
+Parameters: {X0:3, X4:7, X8:11} (iif)
+    END event IF This Event + Slot: 00000000 is ON
+    DISABLE Gravity for Entity ID: X0:3
+    DISABLE Entity ID: X0:3
+    DISABLE AI of Entity ID: X0:3
+     MAIN <-- IF Entity ID: 00010000 is Inside Area Entity ID: X4:7 --> MAIN
+    WAIT X8:11s
+    ENABLE Gravity for Entity ID: X0:3
+    ENABLE Entity ID: X0:3
+    Force Entity ID: X0:3 to play Animation ID: 7000 (Loop: FALSE, Wait for completion: TRUE, Do not wait for transition: FALSE)
+    ENABLE AI of Entity ID: X0:3
+
+Event ID: 11205200, Int: 1
+Parameters: {X0:3, X4:7} (if)
+    SKIP 2 lines IF This Event + Slot: 00000000 is OFF
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: -1, Death Animation: -1, Standby Return Animation: -1)
+    END event
+    DISABLE AI of Entity ID: X0:3
+     OR(01) <-- IF Entity ID: X0:3 is Inside radius X4:7 of Entity ID: 00010000
+     OR(01) <-- IF Entity ID: X0:3 is hostile toward Entity ID: 00010000
+     OR(01) <-- IF Entity ID: X0:3 is hostile toward Entity ID: 00006521
+     MAIN <-- IF register OR(01) is TRUE
+    ENABLE AI of Entity ID: X0:3
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: 9060, Death Animation: -1, Standby Return Animation: -1)
+
+Event ID: 11205250, Int: 1
+Parameters: {X0:3, X4:7} (ii)
+    SKIP 2 lines IF This Event + Slot: 00000000 is OFF
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: -1, Death Animation: -1, Standby Return Animation: -1)
+    END event
+    DISABLE AI of Entity ID: X0:3
+     OR(01) <-- IF Entity ID: X0:3 is hostile toward Entity ID: 00010000
+     OR(01) <-- IF Entity ID: X0:3 is hostile toward Entity ID: 00006521
+     OR(01) <-- IF Entity ID: 00010000 is Inside Area Entity ID: X4:7 --> OR(01)
+     OR(01) <-- IF Entity ID: 00006521 is Inside Area Entity ID: X4:7 --> OR(01)
+     MAIN <-- IF register OR(01) is TRUE
+    ENABLE AI of Entity ID: X0:3
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: 9060, Death Animation: -1, Standby Return Animation: -1)
+
+Event ID: 11205290, Int: 1
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iifi)
+    SKIP 2 lines IF This Event + Slot: 00000000 is OFF
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: -1, Death Animation: -1, Standby Return Animation: -1)
+    END event
+    DISABLE AI of Entity ID: X0:3
+     OR(01) <-- IF Entity ID: X0:3 is hostile toward Entity ID: 00010000
+     OR(01) <-- IF Entity ID: X0:3 is hostile toward Entity ID: 00006521
+    SKIP 1 lines IF (Event Flag ID: 0) == (Event Flag ID: X12:15)
+    SKIP 1 lines IF muliplayer status is Client
+     OR(01) <-- IF Flag: X4:7 is ON
+     MAIN <-- IF register OR(01) is TRUE
+    WAIT X8:11s
+    ENABLE AI of Entity ID: X0:3
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: 9060, Death Animation: -1, Standby Return Animation: -1)
+
+Event ID: 11205230, Int: 1
+Parameters: {X0:3, X4:7} (if)
+    SKIP 2 lines IF This Event + Slot: 00000000 is OFF
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: -1, Death Animation: -1, Standby Return Animation: -1)
+    END event
+    Set Map Collision for Entity ID: X0:3 to Not TRUE
+    DISABLE Gravity for Entity ID: X0:3
+     OR(01) <-- IF Entity ID: X0:3 is Inside radius X4:7 of Entity ID: 00010000
+     OR(01) <-- IF Entity ID: X0:3 is Inside radius X4:7 of Entity ID: 00006521
+     OR(02) <-- IF Entity ID: X0:3 is hostile toward Entity ID: 00010000
+     OR(02) <-- IF Entity ID: X0:3 is hostile toward Entity ID: 00006521
+     AND(01) <-- IF register OR(01) is TRUE
+     AND(02) <-- IF register OR(02) is TRUE
+     OR(03) <-- IF register AND(01) is TRUE
+     OR(03) <-- IF register AND(02) is TRUE
+     MAIN <-- IF register OR(03) is TRUE
+    Set Map Collision for Entity ID: X0:3 to Not FALSE
+    ENABLE Gravity for Entity ID: X0:3
+    END event IF register AND(02) is TRUE (FINISHED)
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: 9063, Death Animation: -1, Standby Return Animation: -1)
+
+Event ID: 11205240, Int: 1
+Parameters: {X0:3, X4:7} (ii)
+     MAIN <-- IF Entity ID: X0:3 has Special Effect ID: 5110 is TRUE
+    Set "Nest" of Entity ID: X0:3 to Area Entity ID: X4:7
+
+Event ID: 11205260, Int: 1
+Parameters: {X0:3, X4:7} (if)
+    SKIP 2 lines IF This Event + Slot: 00000000 is OFF
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: -1, Death Animation: -1, Standby Return Animation: -1)
+    END event
+     OR(01) <-- IF Entity ID: X0:3 is Inside radius X4:7 of Entity ID: 00010000
+     OR(01) <-- IF Entity ID: X0:3 is Inside radius X4:7 of Entity ID: 00006521
+     MAIN <-- IF register OR(01) is TRUE
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: 9060, Death Animation: -1, Standby Return Animation: -1)
+
+Event ID: 11205280, Int: 1
+Parameters: {X0:3, X4:7, X8:11} (ifi)
+    SKIP 2 lines IF This Event + Slot: 00000000 is OFF
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: -1, Death Animation: -1, Standby Return Animation: -1)
+    END event
+     OR(01) <-- IF Entity ID: X0:3 is Inside radius X4:7 of Entity ID: 00010000
+     OR(01) <-- IF Entity ID: X0:3 is Inside radius X4:7 of Entity ID: 00006521
+     OR(01) <-- IF Entity ID: 00010000 is Inside Area Entity ID: X8:11 --> OR(01)
+     OR(01) <-- IF Entity ID: 00006521 is Inside Area Entity ID: X8:11 --> OR(01)
+     MAIN <-- IF register OR(01) is TRUE
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: -1, Damage Animation: -1, Cancel Animation: 9060, Death Animation: -1, Standby Return Animation: -1)
+
+Event ID: 11205000, Int: 1
+Parameters: {} ()
+    DISABLE Gravity for Entity ID: 1200000
+    Set Map Collision for Entity ID: 1200000 to Not TRUE
+    SKIP 1 lines IF This Event: 00000000 is ON
+     MAIN <-- IF Entity ID: 00010000 is Inside Area Entity ID: 01202100 --> MAIN
+    ENABLE Gravity for Entity ID: 1200000
+    Set Map Collision for Entity ID: 1200000 to Not FALSE
+    Set "Nest" of Entity ID: 1200000 to Area Entity ID: 1202101
+
+Event ID: 11200800, Int: 1
+Parameters: {} ()
+    DISABLE Entity ID: 1200200
+    END event IF This Event: 00000000 is ON
+    SKIP 1 lines IF Flag: 11200801 is ON
+     MAIN <-- IF Flag: 00000703 is ON
+    ENABLE Entity ID: 1200200
+     MAIN <-- IF Entity ID: 01200200 BackRead status is TRUE
+    Set display mask of character (Entity ID: 1200200, Number of Bits: 0) to ON
+     MAIN <-- IF Entity ID: 01200200 is Dead
+    SET Event Flag ID 11200800 to ON
+
+Event ID: 11200801, Int: 1
+Parameters: {} ()
+    SKIP 2 lines IF This Event: 00000000 is OFF
+    DISABLE Entity ID: 1200010
+    END event
+     OR(01) <-- IF Entity ID: 01200010 is Dead
+     AND(01) <-- IF Entity ID: 01200011 is Dead
+     AND(01) <-- IF Entity ID: 01200012 is Dead
+     AND(01) <-- IF Entity ID: 01200013 is Dead
+     AND(01) <-- IF Entity ID: 01200014 is Dead
+     AND(01) <-- IF Entity ID: 01200015 is Dead
+     AND(01) <-- IF Entity ID: 01200016 is Dead
+     AND(01) <-- IF Entity ID: 01200017 is Dead
+     OR(01) <-- IF register AND(01) is TRUE
+     MAIN <-- IF register OR(01) is TRUE
+    Request forced death of Entity ID: 1200010 (Yields souls: TRUE)
+     OR(07) <-- IF Entity ID: 00010000 is of Character Type Survival
+     OR(07) <-- IF Entity ID: 00010000 is of Character Type Gray Ghost
+    END event IF register OR(07) is FALSE
+    Award Items (Item Lot ID: 35300100) (Except to Clients)
+
+Event ID: 11205300, Int: 1
+Parameters: {X0:1, X2:3, X4:7, X8:11, X12:15, X16:16, X17:17, X20:23} (hhiiiBBi)
+    DISABLE Entity ID: X8:11
+    SKIP 4 lines IF This Event + Slot: 00000000 is OFF
+    Set display mask of character (Entity ID: 1200010, Number of Bits: X16:16) to OFF
+    Set hitbox mask of character (Entity ID: 1200010, Number of Bits: X17:17) to ON
+    Set Special Effect (Entity ID: 1200010, Special Effect ID: X20:23)
+    END event
+     MAIN <-- IF Entity ID: 01200010 BackRead status is TRUE
+    Create multipart-NPC part (Entity ID: 1200010, Part NPC Type: X2:3, Part Index: Part type[X0:1], Part HP: 176, Damage Correction: 1, Body Damage Correction: 1, Invincible: FALSE, Starts in stopped state: FALSE)
+     AND(01) <-- IF Part NPC ID: X4:7 of multipart-NPC Entity: 01200010 has HP <= 0
+     AND(02) <-- IF Entity ID: 01200010 has Health Ratio <= 0.000
+     OR(01) <-- IF register AND(01) is TRUE
+     OR(01) <-- IF register AND(02) is TRUE
+     MAIN <-- IF register OR(01) is TRUE
+    END event IF register AND(02) is TRUE (FINISHED)
+    Issue Animation Reset Request for Entity ID: 1200010 (Interpolation: Interpolated)
+    Issue Warp request for Entity ID: X8:11 (Warp Destination Type: Character, Destination Target ID: 1200010, Damipoly ID: X12:15) and copy "floor setting" from Entity ID: 1200010
+    ENABLE Entity ID: X8:11
+    Force Entity ID: X8:11 to play Animation ID: 8100 (Loop: FALSE, Wait for completion: FALSE, Do not wait for transition: FALSE)
+    Force Entity ID: 1200010 to play Animation ID: 8000 (Loop: FALSE, Wait for completion: FALSE, Do not wait for transition: FALSE)
+    Set display mask of character (Entity ID: 1200010, Number of Bits: X16:16) to OFF
+    Set hitbox mask of character (Entity ID: 1200010, Number of Bits: X17:17) to ON
+    Set Special Effect (Entity ID: 1200010, Special Effect ID: X20:23)
+
+Event ID: 11200200, Int: 0
+Parameters: {} ()
+    DISABLE network sync.
+    END event IF multiplayer status is Client
+     AND(01) <-- IF player Multiplayer State is Host
+     AND(02) <-- IF player's covenant is Forest Hunter
+     AND(01) <-- IF register AND(02) is FALSE
+     OR(01) <-- IF local player is standing on Hitbox Entity ID: 01203500
+     OR(01) <-- IF local player is standing on Hitbox Entity ID: 01203501
+     OR(01) <-- IF local player is standing on Hitbox Entity ID: 01203502
+     OR(01) <-- IF local player is standing on Hitbox Entity ID: 01203503
+     OR(01) <-- IF local player is standing on Hitbox Entity ID: 01203504
+     AND(01) <-- IF register OR(01) is TRUE
+     MAIN <-- IF register AND(01) is TRUE
+    Set Special Effect (Entity ID: 10000, Special Effect ID: 4500)
+    WAIT 10 frames
+    RESTART event
+
+Event ID: 11200810, Int: 1
+Parameters: {X0:3, X4:7, X8:11} (iii)
+    SKIP 6 lines IF This Event + Slot: 00000000 is OFF
+    SKIP 3 lines IF (Event Flag ID: X4:7) == (Event Flag ID: 1)
+    DISABLE Entity ID: X0:3
+    Request forced death of Entity ID: X0:3 (Yields souls: FALSE)
+    END event
+    Mandatory treasure at Entity ID: X0:3
+    END event
+     MAIN <-- IF Entity ID: X0:3 is Dead
+    END event IF (Event Flag ID: X8:11) == (Event Flag ID: 0)
+     OR(07) <-- IF Entity ID: 00010000 is of Character Type Survival
+     OR(07) <-- IF Entity ID: 00010000 is of Character Type Gray Ghost
+    END event IF register OR(07) is FALSE
+    Award Items (Item Lot ID: X8:11) (Except to Clients)
+
+Event ID: 11200600, Int: 0
+Parameters: {X0:3, X4:7} (ii)
+    SKIP 4 lines IF This Event + Slot: 00000000 is OFF
+    "Reproduction of object animation" (Object Entity ID: X0:3, Animation ID: 0)
+    ObjAct Activation (Entity ID: X0:3, Object Parameter ID: -1, State: DISABLE)
+    ENABLE Treasure of Entity ID: X0:3
+    END event
+    DISABLE Treasure of Entity ID: X0:3
+     MAIN <-- IF ObjAct Execution Event ID: X4:7
+    WAIT 10 frames
+    ENABLE Treasure of Entity ID: X0:3
+
+Event ID: 11200690, Int: 0
+Parameters: {} ()
+    SKIP 6 lines IF This Event: 00000000 is ON
+    DISABLE Treasure of Entity ID: 1201600
+    DISABLE Object with Entity ID: 1201600
+     OR(01) <-- IF Flag: 00001123 is ON
+     OR(01) <-- IF Flag: 00001130 is ON
+     MAIN <-- IF register OR(01) is TRUE
+    ENABLE Object with Entity ID: 1201600
+    ENABLE Treasure of Entity ID: 1201600
+
+Event ID: 11200510, Int: 0
+Parameters: {X0:3, X4:7} (ii)
+     AND(01) <-- IF Entity ID: X0:3 has Health Ratio <= 0.900
+     AND(01) <-- IF Entity ID: X0:3 has Health Ratio > 0.000
+     AND(01) <-- IF Entity ID: X0:3 is hostile toward Entity ID: 00010000
+     AND(02) <-- IF Flag: X4:7 is ON
+     AND(02) <-- IF This Event + Slot: 00000000 is ON
+     AND(03) <-- IF Flag: X4:7 is ON
+     AND(03) <-- IF This Event + Slot: 00000000 is OFF
+     OR(01) <-- IF register AND(01) is TRUE
+     OR(01) <-- IF register AND(02) is TRUE
+     OR(01) <-- IF register AND(03) is TRUE
+     MAIN <-- IF register OR(01) is TRUE
+    SKIP 2 lines IF register AND(03) is FALSE (FINISHED)
+    DISABLE Entity ID: X0:3
+     MAIN <-- IF Flag: 00000703 is ON
+    SET Event Flag ID X4:7 to ON
+    Switch character (Entity ID: X0:3) to team Hostile Ally and exit forced standby animation
+    Save Request
+
+Event ID: 11200520, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iiii)
+    SKIP 2 lines IF This Event + Slot: 00000000 is OFF
+    Mandatory treasure at Entity ID: X0:3
+    END event
+     MAIN <-- IF Entity ID: X0:3 has Health Ratio <= 0.000
+    Batch SET Event Flag IDs from X4:7 to X8:11 to OFF
+    SET Event Flag ID X12:15 to ON
+
+Event ID: 11200501, Int: 0
+Parameters: {X0:3, X4:7} (ii)
+     AND(01) <-- IF Flag: 00001603 is OFF
+     AND(01) <-- IF Flag: 00001600 is ON
+     AND(01) <-- IF Entity ID: X0:3 has Health Ratio <= 0.900
+     AND(01) <-- IF Entity ID: X0:3 has Health Ratio > 0.000
+     AND(01) <-- IF Entity ID: X0:3 is hostile toward Entity ID: 00010000
+     AND(01) <-- IF This Event: 00000000 is OFF
+     AND(02) <-- IF Flag: 00001763 is OFF
+     AND(02) <-- IF Flag: 00001760 is ON
+     AND(02) <-- IF Entity ID: 00006420 has Health Ratio <= 0.900
+     AND(02) <-- IF Entity ID: 00006420 has Health Ratio > 0.000
+     AND(02) <-- IF Entity ID: 00006420 is hostile toward Entity ID: 00010000
+     AND(02) <-- IF This Event: 00000000 is OFF
+     AND(03) <-- IF Flag: 00000746 is ON
+     AND(03) <-- IF This Event: 00000000 is OFF
+     OR(02) <-- IF Flag: X4:7 is ON
+     OR(02) <-- IF Flag: 00001763 is ON
+     AND(04) <-- IF register OR(02) is TRUE
+     AND(04) <-- IF This Event: 00000000 is ON
+     OR(01) <-- IF register AND(01) is TRUE
+     OR(01) <-- IF register AND(02) is TRUE
+     OR(01) <-- IF register AND(03) is TRUE
+     OR(01) <-- IF register AND(04) is TRUE
+     MAIN <-- IF register OR(01) is TRUE
+    SKIP 4 lines IF register AND(04) is TRUE (FINISHED)
+    SKIP 1 lines IF Flag: 00001604 is ON
+    SET Event Flag ID X4:7 to ON
+    SKIP 1 lines IF Flag: 00001764 is ON
+    SET Event Flag ID 1763 to ON
+    SKIP 1 lines IF Flag: 00001604 is ON
+    ENABLE Entity ID: X0:3
+    SKIP 1 lines IF Flag: 00001764 is ON
+    ENABLE Entity ID: 6420
+    Switch Entity ID: X0:3 to team Enemy
+    Switch Entity ID: 6420 to team Enemy
+    Save Request
+    SET Event Flag ID 1766 to ON
+
+Event ID: 11200530, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iiii)
+     AND(01) <-- IF Flag: 00001120 is ON
+     AND(01) <-- IF Flag: 11200800 is ON
+     MAIN <-- IF register AND(01) is TRUE
+    Batch SET Event Flag IDs from X4:7 to X8:11 to OFF
+    SET Event Flag ID X12:15 to ON
+    Issue Warp request for Entity ID: X0:3 (Warp Destination Type: Character, Destination Target ID: 1200200, Damipoly ID: 101) and copy "floor setting" from Entity ID: 1200200
+    ENABLE Entity ID: X0:3
+    WAIT 0.500s
+    Special Standby Setting (Entity ID: X0:3, Standby Animation: 7875, Damage Animation: -1, Cancel Animation: -1, Death Animation: -1, Standby Return Animation: -1)
+    Force Entity ID: X0:3 to play Animation ID: 7876 (Loop: FALSE, Wait for completion: FALSE, Do not wait for transition: FALSE)
+
+Event ID: 11200531, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iiii)
+     AND(01) <-- IF Flag: 00001121 is ON
+     AND(01) <-- IF Flag: 11200590 is ON
+     MAIN <-- IF register AND(01) is TRUE
+    Batch SET Event Flag IDs from X4:7 to X8:11 to OFF
+    SET Event Flag ID X12:15 to ON
+    Force Entity ID: X0:3 to play Animation ID: 7877 (Loop: FALSE, Wait for completion: TRUE, Do not wait for transition: FALSE)
+    Force Entity ID: X0:3 to play Animation ID: 8289 (Loop: FALSE, Wait for completion: TRUE, Do not wait for transition: FALSE)
+    DISABLE Entity ID: X0:3
+
+Event ID: 11200532, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iiii)
+     AND(01) <-- IF Flag: 00001121 is ON
+     AND(01) <-- IF Flag: 11200591 is ON
+     MAIN <-- IF register AND(01) is TRUE
+    Batch SET Event Flag IDs from X4:7 to X8:11 to OFF
+    SET Event Flag ID X12:15 to ON
+    Force Entity ID: X0:3 to play Animation ID: 7877 (Loop: FALSE, Wait for completion: TRUE, Do not wait for transition: FALSE)
+    Force Entity ID: X0:3 to play Animation ID: 8289 (Loop: FALSE, Wait for completion: TRUE, Do not wait for transition: FALSE)
+    DISABLE Entity ID: X0:3
+
+Event ID: 11200533, Int: 0
+Parameters: {} ()
+    Delete Map SFX (Entity ID: 1203100, Deletes only root: FALSE)
+    Delete Map SFX (Entity ID: 1203101, Deletes only root: FALSE)
+    Delete Map SFX (Entity ID: 1203102, Deletes only root: FALSE)
+    Delete Map SFX (Entity ID: 1203103, Deletes only root: FALSE)
+    END event IF multiplayer status is Client
+     AND(01) <-- IF player Does not own Item (Item Type: Good, Item ID: 00002520)
+     AND(01) <-- IF Flag: 00001122 is ON
+     AND(02) <-- IF Flag: 00001129 is ON
+     OR(01) <-- IF register AND(01) is TRUE
+     OR(01) <-- IF register AND(02) is TRUE
+     MAIN <-- IF register OR(01) is TRUE
+    Randomly SET one of Event Flag ID from 11200210 to 11200213 to ON
+    SKIP 1 lines IF Flag: 11200210 is OFF
+    Create Map SFX (Entity ID: 1203100)
+    SKIP 1 lines IF Flag: 11200211 is OFF
+    Create Map SFX (Entity ID: 1203101)
+    SKIP 1 lines IF Flag: 11200212 is OFF
+    Create Map SFX (Entity ID: 1203102)
+    SKIP 1 lines IF Flag: 11200213 is OFF
+    Create Map SFX (Entity ID: 1203103)
+
+Event ID: 11205040, Int: 0
+Parameters: {X0:3, X4:7, X8:11} (iii)
+    SKIP 2 lines IF Flag: 11200215 is OFF
+    ENABLE Entity ID: 6051
+    END event
+     AND(01) <-- IF Flag: 00001122 is ON
+     AND(01) <-- IF Flag: X0:3 is ON
+     AND(01) <-- IF Action Button State (Target Type: Area, Target Entity ID: X4:7, Reaction Angle: 0.000, Damipoly ID: 0, Reaction Distance: 0.000, Help ID: 50000000, Reaction Attribute: Survival & Gray, Pad ID: 0)
+     MAIN <-- IF register AND(01) is TRUE
+    SET Event Flag ID 11200215 to ON
+    Delete Map SFX (Entity ID: X8:11, Deletes only root: TRUE)
+    Issue Warp request for Entity ID: 6051 (Warp Destination Type: Area, Destination Target ID: X4:7, Damipoly ID: -1) and SET "floor" to Hitbox Entity ID: 1203150
+    WAIT 5.000s
+    ENABLE Entity ID: 6051
+    Create One-Off SFX (SFX Type: Area, Entity ID: X4:7, Damipoly ID: -1, SFX ID: 120)
+    Special Standby Setting (Entity ID: 6051, Standby Animation: 7875, Damage Animation: -1, Cancel Animation: -1, Death Animation: -1, Standby Return Animation: -1)
+    Force Entity ID: 6051 to play Animation ID: 6951 (Loop: FALSE, Wait for completion: TRUE, Do not wait for transition: FALSE)
+    Force Entity ID: 6051 to play Animation ID: 7876 (Loop: FALSE, Wait for completion: FALSE, Do not wait for transition: FALSE)
+    SET Event Flag ID 11205310 to ON
+
+Event ID: 11200534, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iiii)
+     AND(01) <-- IF Flag: 00001122 is ON
+     AND(01) <-- IF Flag: 11205310 is ON
+     AND(01) <-- IF Entity ID: X0:3 is Alive
+     MAIN <-- IF register AND(01) is TRUE
+    Batch SET Event Flag IDs from X4:7 to X8:11 to OFF
+    SET Event Flag ID X12:15 to ON
+
+Event ID: 11200529, Int: 0
+Parameters: {X0:3, X4:7, X8:11} (iii)
+    END event IF Flag: 00000017 is ON
+     OR(01) <-- IF Flag: 00001122 is ON
+     OR(01) <-- IF Flag: 00001125 is ON
+     OR(01) <-- IF Flag: 00001126 is ON
+     AND(01) <-- IF register OR(01) is TRUE
+     AND(01) <-- IF player Owns Item (Item Type: Good, Item ID: 00002520)
+     MAIN <-- IF register AND(01) is TRUE
+    SKIP 2 lines IF Flag: 00001125 is ON
+    SKIP 1 lines IF Flag: 00001126 is ON
+    Batch SET Event Flag IDs from X0:3 to X4:7 to OFF
+    SET Event Flag ID X8:11 to ON
+
+Event ID: 11200527, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iiii)
+     MAIN <-- IF Flag: 00001128 is ON
+    SKIP 5 lines IF Flag: 00001125 is ON
+    SKIP 8 lines IF Flag: 00001126 is ON
+    Batch SET Event Flag IDs from X4:7 to X8:11 to OFF
+    SET Event Flag ID X12:15 to ON
+    DISABLE Entity ID: X0:3
+    END event
+    Batch SET Event Flag IDs from X4:7 to X8:11 to OFF
+    SET Event Flag ID 1125 to ON
+    DISABLE Entity ID: X0:3
+    END event
+    Batch SET Event Flag IDs from X4:7 to X8:11 to OFF
+    SET Event Flag ID 1126 to ON
+    DISABLE Entity ID: X0:3
+
+Event ID: 11205070, Int: 0
+Parameters: {X0:3, X4:7, X8:11} (iii)
+    SKIP 2 lines IF Flag: 11200215 is OFF
+    ENABLE Entity ID: 6051
+    END event
+     AND(01) <-- IF Flag: 00001129 is ON
+     AND(01) <-- IF Flag: X0:3 is ON
+     AND(01) <-- IF Action Button State (Target Type: Area, Target Entity ID: X4:7, Reaction Angle: 0.000, Damipoly ID: 0, Reaction Distance: 0.000, Help ID: 50000000, Reaction Attribute: Survival & Gray, Pad ID: 0)
+     MAIN <-- IF register AND(01) is TRUE
+    SET Event Flag ID 11200215 to ON
+    Delete Map SFX (Entity ID: X8:11, Deletes only root: TRUE)
+    Issue Warp request for Entity ID: 6051 (Warp Destination Type: Area, Destination Target ID: X4:7, Damipoly ID: -1) and SET "floor" to Hitbox Entity ID: 1203150
+    WAIT 5.000s
+    ENABLE Entity ID: 6051
+    Create One-Off SFX (SFX Type: Area, Entity ID: X4:7, Damipoly ID: -1, SFX ID: 120)
+    Special Standby Setting (Entity ID: 6051, Standby Animation: 7875, Damage Animation: -1, Cancel Animation: -1, Death Animation: -1, Standby Return Animation: -1)
+    Force Entity ID: 6051 to play Animation ID: 6951 (Loop: FALSE, Wait for completion: TRUE, Do not wait for transition: FALSE)
+    Force Entity ID: 6051 to play Animation ID: 7876 (Loop: FALSE, Wait for completion: FALSE, Do not wait for transition: FALSE)
+    SET Event Flag ID 11205311 to ON
+
+Event ID: 11200525, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iiii)
+     AND(01) <-- IF Flag: 00001129 is ON
+     AND(01) <-- IF Flag: 11205311 is ON
+     AND(01) <-- IF Entity ID: X0:3 is Alive
+     MAIN <-- IF register AND(01) is TRUE
+    Batch SET Event Flag IDs from X4:7 to X8:11 to OFF
+    SET Event Flag ID X12:15 to ON
+
+Event ID: 11200535, Int: 0
+Parameters: {X0:3} (i)
+    SKIP 1 lines IF muliplayer status is Client
+    SET Event Flag ID 11205021 to OFF
+    SKIP 1 lines IF muliplayer status is Host
+    SKIP 5 lines IF Flag: 11205021 is ON
+     AND(01) <-- IF Flag: 00001603 is OFF
+     AND(01) <-- IF Flag: 00001601 is OFF
+     AND(01) <-- IF player Multiplayer State is Host
+     AND(01) <-- IF player's covenant is Forest Hunter
+     MAIN <-- IF register AND(01) is TRUE
+    SKIP 1 lines IF Flag: 00001604 is ON
+    ENABLE Entity ID: X0:3
+    SKIP 2 lines IF Flag: 00001764 is ON
+    ENABLE Entity ID: 6420
+    SET Event Flag ID 1766 to ON
+    SET Event Flag ID 11205021 to ON
+
+Event ID: 11200538, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iiii)
+     MAIN <-- IF Entity ID: X0:3 is hostile toward Entity ID: 00010000
+    Batch SET Event Flag IDs from X4:7 to X8:11 to OFF
+    SET Event Flag ID X12:15 to ON
+    Force Entity ID: X0:3 to play Animation ID: 9030 (Loop: FALSE, Wait for completion: TRUE, Do not wait for transition: FALSE)
+    DISABLE Entity ID: X0:3
+
+Event ID: 11200539, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iiii)
+     AND(01) <-- IF Flag: 00001710 is ON
+     AND(01) <-- IF Flag: 00000746 is ON
+     AND(01) <-- IF Entity ID: X0:3 is Alive
+     MAIN <-- IF register AND(01) is TRUE
+    Batch SET Event Flag IDs from X4:7 to X8:11 to OFF
+    SET Event Flag ID X12:15 to ON
+
+Event ID: 11200540, Int: 0
+Parameters: {X0:3, X4:7, X8:11, X12:15} (iiii)
+     AND(01) <-- IF Flag: 00001712 is ON
+     AND(01) <-- IF Flag: 11200596 is ON
+     AND(01) <-- IF Entity ID: X0:3 is Alive
+     MAIN <-- IF register AND(01) is TRUE
+    Batch SET Event Flag IDs from X4:7 to X8:11 to OFF
+    SET Event Flag ID X12:15 to ON
+    Force Entity ID: X0:3 to play Animation ID: 7003 (Loop: FALSE, Wait for completion: TRUE, Do not wait for transition: FALSE)
+    DISABLE Entity ID: X0:3
+
+Event ID: 11205054, Int: 0
+Parameters: {} ()
+     AND(07) <-- IF player's covenant is Forest Hunter
+     OR(07) <-- IF Entity ID: 00010000 is of Character Type Survival
+     OR(07) <-- IF Entity ID: 00010000 is of Character Type Gray Ghost
+     AND(01) <-- IF Flag: 11205055 is OFF
+     AND(01) <-- IF Flag: 11205053 is ON
+     AND(01) <-- IF register OR(07) is TRUE
+     AND(01) <-- IF register AND(07) is FALSE
+     AND(01) <-- IF Flag: 11205050 is OFF
+     AND(02) <-- IF Flag: 11205055 is OFF
+     AND(02) <-- IF Flag: 11205053 is ON
+     AND(02) <-- IF register OR(07) is TRUE
+     AND(02) <-- IF register AND(07) is TRUE
+     OR(06) <-- IF Entity ID: 00006380 is hostile toward Entity ID: 00010000
+     OR(06) <-- IF Flag: 11205060 is ON
+     OR(06) <-- IF Flag: 11205061 is ON
+     OR(06) <-- IF Flag: 11205062 is ON
+     OR(06) <-- IF Flag: 11205063 is ON
+     OR(06) <-- IF Flag: 11205064 is ON
+     OR(06) <-- IF Flag: 11205065 is ON
+     OR(06) <-- IF Flag: 11205066 is ON
+     OR(06) <-- IF Flag: 11205067 is ON
+     OR(06) <-- IF Flag: 11205068 is ON
+     OR(06) <-- IF Flag: 00000745 is ON
+     AND(02) <-- IF register OR(06) is TRUE
+     AND(03) <-- IF Flag: 11205055 is OFF
+     AND(03) <-- IF Flag: 11205053 is OFF
+     AND(03) <-- IF register OR(07) is TRUE
+     AND(03) <-- IF register AND(07) is FALSE
+     AND(03) <-- IF Flag: 11205050 is ON
+     AND(04) <-- IF Flag: 11205055 is OFF
+     AND(04) <-- IF Flag: 11205053 is OFF
+     AND(04) <-- IF register OR(07) is TRUE
+     AND(04) <-- IF register AND(07) is TRUE
+     OR(01) <-- IF register AND(01) is TRUE
+     OR(01) <-- IF register AND(02) is TRUE
+     OR(01) <-- IF register AND(03) is TRUE
+     OR(01) <-- IF register AND(04) is TRUE
+     MAIN <-- IF register OR(01) is TRUE
+    SET Event Flag ID 11205055 to ON
+    SKIP 1 lines IF register AND(01) is FALSE (FINISHED)
+    SET Event Flag ID 11205051 to ON
+    SKIP 1 lines IF register AND(02) is FALSE (FINISHED)
+    SET Event Flag ID 11205051 to ON
+    SKIP 1 lines IF register AND(03) is FALSE (FINISHED)
+    SET Event Flag ID 11205052 to ON
+    SKIP 1 lines IF register AND(04) is FALSE (FINISHED)
+    SET Event Flag ID 11205052 to ON
+    RESTART event
+
+Event ID: 11205056, Int: 1
+Parameters: {} ()
+     AND(07) <-- IF player's covenant is Forest Hunter
+     OR(07) <-- IF Entity ID: 00010000 is of Character Type Survival
+     OR(07) <-- IF Entity ID: 00010000 is of Character Type Gray Ghost
+     AND(01) <-- IF Flag: 11205051 is ON
+     AND(01) <-- IF register OR(07) is TRUE
+     AND(01) <-- IF register AND(07) is TRUE
+     AND(02) <-- IF Flag: 11205051 is ON
+     AND(02) <-- IF register OR(07) is TRUE
+     AND(02) <-- IF register AND(07) is FALSE
+     OR(01) <-- IF register AND(01) is TRUE
+     OR(01) <-- IF register AND(02) is TRUE
+     MAIN <-- IF register OR(01) is TRUE
+    SET Event Flag ID 11205051 to OFF
+    SET Event Flag ID 11205053 to OFF
+    SKIP 9 lines IF register AND(02) is TRUE (FINISHED)
+     OR(06) <-- IF Entity ID: 00010000 is of Character Type Survival
+     OR(06) <-- IF Entity ID: 00010000 is of Character Type Gray Ghost
+    SKIP 3 lines IF register OR(06) is FALSE
+    Betray player's current covenant
+    SKIP 2 lines IF Flag: 00009001 is ON
+    Increment player PvP sin
+    SET Event Flag ID 9001 to ON
+    SET Event Flag ID 742 to ON
+    SET Event Flag ID 746 to ON
+    Switch Entity ID: 6310 to team Enemy
+    Switch Entity ID: 6420 to team Enemy
+    Switch Entity ID: 1200300 to team Enemy
+    Switch Entity ID: 1200301 to team Enemy
+    Switch Entity ID: 1200302 to team Enemy
+    Switch Entity ID: 1200303 to team Enemy
+    Switch Entity ID: 1200304 to team Enemy
+    Switch Entity ID: 1200305 to team Enemy
+    Switch Entity ID: 1200306 to team Enemy
+    Save Request
+    SET Event Flag ID 11205055 to OFF
+    RESTART event
+
+Event ID: 11205057, Int: 1
+Parameters: {} ()
+     MAIN <-- IF Flag: 11205052 is ON
+    SET Event Flag ID 11205052 to OFF
+    SET Event Flag ID 11205053 to ON
+    Switch Entity ID: 6310 to team Ally
+    Switch Entity ID: 6420 to team Ally
+    Switch Entity ID: 1200300 to team Ally
+    Switch Entity ID: 1200301 to team Ally
+    Switch Entity ID: 1200302 to team Ally
+    Switch Entity ID: 1200303 to team Ally
+    Switch Entity ID: 1200304 to team Ally
+    Switch Entity ID: 1200305 to team Ally
+    Switch Entity ID: 1200306 to team Ally
+    Clear AI Target List of Entity ID: 6310
+    Clear AI Target List of Entity ID: 6420
+    Clear AI Target List of Entity ID: 1200300
+    Clear AI Target List of Entity ID: 1200301
+    Clear AI Target List of Entity ID: 1200302
+    Clear AI Target List of Entity ID: 1200303
+    Clear AI Target List of Entity ID: 1200304
+    Clear AI Target List of Entity ID: 1200305
+    Clear AI Target List of Entity ID: 1200306
+    Issue AI Re-plan request to Entity ID: 6310
+    Issue AI Re-plan request to Entity ID: 6420
+    Issue AI Re-plan request to Entity ID: 1200300
+    Issue AI Re-plan request to Entity ID: 1200301
+    Issue AI Re-plan request to Entity ID: 1200302
+    Issue AI Re-plan request to Entity ID: 1200303
+    Issue AI Re-plan request to Entity ID: 1200304
+    Issue AI Re-plan request to Entity ID: 1200305
+    Issue AI Re-plan request to Entity ID: 1200306
+    Save Request
+    SET Event Flag ID 11205055 to OFF
+    RESTART event
+
+Event ID: 11205058, Int: 0
+Parameters: {} ()
+    SKIP 2 lines IF Flag: 11205053 is OFF
+    SET Event Flag ID 11205052 to ON
+    END event
+    Switch Entity ID: 6310 to team Enemy
+    Switch Entity ID: 6420 to team Enemy
+    Switch Entity ID: 1200300 to team Enemy
+    Switch Entity ID: 1200301 to team Enemy
+    Switch Entity ID: 1200302 to team Enemy
+    Switch Entity ID: 1200303 to team Enemy
+    Switch Entity ID: 1200304 to team Enemy
+    Switch Entity ID: 1200305 to team Enemy
+    Switch Entity ID: 1200306 to team Enemy
+    Save Request
+
+Event ID: 11205060, Int: 1
+Parameters: {X0:3} (i)
+    SKIP 1 lines IF Flag: 00000746 is OFF
+    Switch Entity ID: X0:3 to team Enemy
+     OR(07) <-- IF Entity ID: 00010000 is of Character Type Survival
+     OR(07) <-- IF Entity ID: 00010000 is of Character Type Gray Ghost
+     AND(01) <-- IF register OR(07) is TRUE
+     AND(01) <-- IF player's covenant is Forest Hunter
+     AND(01) <-- IF Entity ID: X0:3 is hostile toward Entity ID: 00010000
+     AND(01) <-- IF Entity ID: X0:3 has Health Ratio <= 0.900
+     MAIN <-- IF register AND(01) is TRUE
+    END event
+
+Event ID: 11205030, Int: 0
+Parameters: {} ()
+    SKIP 1 lines IF muliplayer status is Client
+    Set Network Update Authority of Entity ID: 6521 to Forced
+    SKIP 3 lines IF Flag: 11205033 is ON
+     AND(02) <-- IF player Multiplayer State is Client
+     AND(02) <-- IF Flag: 11205031 is ON
+    SKIP 1 lines IF register AND(02) is TRUE
+    DISABLE Entity ID: 6521
+    END event IF Flag: 11200900 is ON
+     AND(01) <-- IF player Multiplayer State is Host
+     AND(01) <-- IF Entity ID: 00010000 is of Character Type Survival
+     AND(01) <-- IF Entity ID: 00006521 BackRead status is TRUE
+     AND(01) <-- IF Entity ID: 00006521 is Inside radius 10.000 of Entity ID: 00010000
+     MAIN <-- IF register AND(01) is TRUE
+    Place Summon Sign for Entity ID: 6521 at Point ID: 1202010 (Sign Type: Blue Eye Sign, When summoned SET Event Flag ID: 11205031, When dismissed SET Event Flag ID: 11205033)
+
+Event ID: 11205032, Int: 0
+Parameters: {} ()
+    END event IF This Event: 00000000 is ON
+     AND(01) <-- IF Flag: 11205031 is ON
+     AND(01) <-- IF Flag: 11205383 is ON
+     MAIN <-- IF register AND(01) is TRUE
+    Issue AI instruction request to Entity ID: 6521 (Command ID: 10, Slot Number: 0)
+    Issue AI Re-plan request to Entity ID: 6521
+     MAIN <-- IF Entity ID: 00006521 is Inside Area Entity ID: 01202898 --> MAIN
+    Rotate Entity ID: 6521 to face Entity ID: 1202894
+    Force Entity ID: 6521 to play Animation ID: 7410 (Loop: FALSE, Wait for completion: FALSE, Do not wait for transition: FALSE)
+    Issue AI instruction request to Entity ID: 6521 (Command ID: -1, Slot Number: 0)
+    Issue AI Re-plan request to Entity ID: 6521
+
+Event ID: 11200300, Int: 0
+Parameters: {} ()
+     MAIN <-- IF Flag: 11205031 is ON
+    SET Event Flag ID 11200300 to ON
+
+Event ID: 11200005, Int: 0
+Parameters: {} ()
+     OR(01) <-- IF Flag: 00001125 is ON
+     OR(01) <-- IF Flag: 00001126 is ON
+     OR(01) <-- IF Flag: 00001127 is ON
+     AND(01) <-- IF register OR(01) is TRUE
+     AND(01) <-- IF player Owns Item (Item Type: Good, Item ID: 00002520)
+     AND(01) <-- IF Flag: 00000017 is OFF
+     MAIN <-- IF register AND(01) is TRUE
+    END event IF multiplayer status is Client
+     MAIN <-- IF player Multiplayer State is Singleplayer
+    Create Map SFX (Entity ID: 1202009)
+     MAIN <-- IF player Multiplayer State is Multiplayer
+    Delete Map SFX (Entity ID: 1202009, Deletes only root: TRUE)
+    RESTART event
+
+Event ID: 11200006, Int: 0
+Parameters: {} ()
+     OR(01) <-- IF Flag: 00001125 is ON
+     OR(01) <-- IF Flag: 00001126 is ON
+     OR(01) <-- IF Flag: 00001127 is ON
+     AND(01) <-- IF register OR(01) is TRUE
+     AND(01) <-- IF player Owns Item (Item Type: Good, Item ID: 00002520)
+     AND(01) <-- IF Flag: 00000017 is OFF
+     AND(01) <-- IF player Multiplayer State is Singleplayer
+     AND(01) <-- IF Action Button State (Target Type: Area, Target Entity ID: 01202008, Reaction Angle: 0.000, Damipoly ID: -1, Reaction Distance: 0.000, Help ID: 10010100, Reaction Attribute: Survival & Gray, Pad ID: 0)
+     MAIN <-- IF register AND(01) is TRUE
+    END event IF multiplayer status is Client
+    Play Cutscene (Cutscene ID: 120002, Playback Method: Skippable) and Warp Player Entity ID: 00010000 to (Warp Point ID: 1212510, Map<12><1>)
+    WAIT 1 frames
+    Save Request
+    RESTART event
